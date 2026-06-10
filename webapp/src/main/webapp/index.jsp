@@ -32,6 +32,9 @@
     <input type="text" placeholder="Enter Mother Name" name="mother name" id="mother name" required>
     <br>
 
+    <label for="father-name"><b>Father Name</b></label>
+    <input type="text" placeholder="Enter Father Name" name="father name" id="father name" required>
+    <br>
 
 
     <button type="submit" class="registerbtn">Register</button>
