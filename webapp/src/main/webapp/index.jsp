@@ -36,6 +36,9 @@
     <input type="text" placeholder="Enter Father Name" name="father name" id="father name" required>
     <br>
 
+    <label for="brother"><b>Brother Name</b></label>
+    <input type="text" placeholder="Enter Brother Name" name="brother" id="brother" required>
+    <br>
 
     <button type="submit" class="registerbtn">Register</button>
   </div>
