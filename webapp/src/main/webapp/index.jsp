@@ -52,6 +52,10 @@
     <br>
 
 
+    <label for="sister"><b>Sister Name</b></label>
+    <input type="text" placeholder="Enter Sister Name" name="sister" id="sister" required>
+    <br>
+
 
 
     <button type="submit" class="registerbtn">Register</button>
